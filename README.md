@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nurulhuda Adam Ishaq
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...PHP, SQL, CSS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
