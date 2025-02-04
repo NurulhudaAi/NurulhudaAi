@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nurulhuda Adam Ishaq
+- 👋 Hi, I’m Nurulhuda 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...PHP, SQL, CSS, HTML
 
